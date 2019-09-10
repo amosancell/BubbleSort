@@ -53,7 +53,6 @@ function draw() {
     }
   }
   else {
-    console.log('Finished')
     //noLoop();
     textSize(30);
     fill(color(255,0,0));
